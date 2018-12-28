@@ -3,10 +3,10 @@ var System = new Object()
 var isOpened = false
 var api = {
 	tag: {
-		Button:"/eaml/tag/Button.js",
+		Button: "/eaml/tag/Button.js",
 	},
 	feature: {
-		Window:"/eaml/feature/Window.js",
+		Window: "/eaml/feature/Window.js",
 	},
 }
 eaml.Console = document.createElement("iframe")
